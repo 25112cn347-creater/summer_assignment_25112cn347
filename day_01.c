@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 int main()
 {
   //1.  WAP to calculate the sum of n natural no.s.
