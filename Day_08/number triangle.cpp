@@ -4,7 +4,9 @@
 123 
 1234 
 12345 */
-
+#include<iostream>
+using namespace std;
+int main () {
 int n; // take n=5 for above pattern
     cout<<"enter sides of triangle";
     cin>>n;
