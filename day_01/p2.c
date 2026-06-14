@@ -1,6 +1,6 @@
 // 2. wap to print a multiplication of table of a given number
 #include <stdio.h>
-int main{
+int main() {
 int n,i;
 char c;
 printf("the table of number:");
