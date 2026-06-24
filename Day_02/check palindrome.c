@@ -1,4 +1,4 @@
-// wap to check whether a number is pallidrone
+// wap to check whether a number is palidrome.
 #include<stdio.h>
 int main() {
  int  n, digit, reverse;
@@ -13,9 +13,9 @@ int main() {
          n = n/10;
      }
      if ( reverse == original ){
-         printf(" pallidrone number");
+         printf(" palidrome number");
      }
-     else{ printf (" not pallidrone");
+     else{ printf (" not palidrome");
      }
    return 0;
 }
