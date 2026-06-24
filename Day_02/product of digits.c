@@ -1,4 +1,4 @@
- // wap to find product of digit.
+ // wap to find product of digits.
 #include<stdio.h>
 int main() {
 int num, digit, product = 1;
